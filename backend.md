@@ -5,10 +5,10 @@
 
 
 <p align="center">
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/ai.md">🤖</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/blockchain.md">🔑</a>
-<a href="https://github.com/HectorPulido/HectorPulido/blob/master/backend.md">💻</a>
+<a href="https://github.com/ja54312/ja54312/blob/master/ai.md">🤖</a>
+<a href="https://github.com/ja54312/ja54312/blob/master/gamedev.md">🎮</a>
+<a href="https://github.com/ja54312/ja54312/blob/master/blockchain.md">🔑</a>
+<a href="https://github.com/ja54312/ja54312/blob/master/backend.md">💻</a>
 </p>
 
 
@@ -18,25 +18,6 @@
 
 
 ## Backend Projects 💻
-- [Unity mmo framework  🎮 💻](https://github.com/HectorPulido/Unity-MMO-Framework) 
-- [Unity arpg online  💻](https://github.com/HectorPulido/Unity-Arpg-Online) 
-- [Hectorpulido  🤖 💻](https://github.com/HectorPulido/HectorPulido) 
-- [Deeplearning based twitch bot  🤖 💻](https://github.com/HectorPulido/Deeplearning-based-Twitch-bot) 
-- [Asteroids like game  🤖 🎮 💻](https://github.com/HectorPulido/Asteroids-like-game) 
-- [Cooklang  💻](https://github.com/HectorPulido/Cooklang) 
-- [Youtubers toolkit  💻](https://github.com/HectorPulido/Youtubers-toolkit) 
-- [Consolegameengine  🎮 💻](https://github.com/HectorPulido/ConsoleGameEngine) 
-- [Unity twitch chat link  🎮 💻](https://github.com/HectorPulido/Unity-twitch-chat-link) 
-- [Decentralized twitter with blockchain as base  🔑 💻](https://github.com/HectorPulido/Decentralized-Twitter-with-blockchain-as-base) 
-- [Console render system  🎮 💻](https://github.com/HectorPulido/console-render-system) 
-- [Pong in python  🎮 💻](https://github.com/HectorPulido/pong-in-python) 
-- [Amazon qldb login example  🔑 💻](https://github.com/HectorPulido/Amazon-QLDB-Login-Example) 
-- [Expenses tracker  💻](https://github.com/HectorPulido/Expenses-tracker) 
-- [Simple php blog  💻](https://github.com/HectorPulido/Simple-php-blog) 
-- [Hectorpulido.github.io  💻](https://github.com/HectorPulido/hectorpulido.github.io) 
-- [Resume generator  💻](https://github.com/HectorPulido/Resume-generator) 
-- [Simple python blog  💻](https://github.com/HectorPulido/Simple-python-blog) 
-- [Simple twitchbot  💻](https://github.com/HectorPulido/Simple-TwitchBot) 
 
 
 
