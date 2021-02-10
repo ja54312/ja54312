@@ -2,7 +2,7 @@
     {
         "type": "config",
         "data": {
-            "githubUser": "HectorPulido",
+            "githubUser": "ja54312",
             "categories": [
                 {
                     "name": "AI",
@@ -29,7 +29,7 @@
     },
     {
         "type": "intro",
-        "data": "Hello, Hector Pulido is Here! 👋"
+        "data": "Hello, JA54312 is Here! 👋"
     },
     {
         "type": "description",
@@ -43,7 +43,7 @@
         "type": "rightImage",
         "data": {
             "image": "https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png",
-            "link": "https://twitter.com/Hector_Pulido_"
+            "link": "https://twitter.com/JA54312"
         }
     },
     {
@@ -51,15 +51,12 @@
         "data": {
             "title": "Tech Stack ⌨",
             "tech": [
-                "Python and Flask, Django ⭐",
-                "Pytorch ⭐",
-                "C# and .Net Technologies",
-                "Javascript and NodeJs",
-                "SQL and Relational Databases",
-                "Linux, AWS and Docker",
-                "Unity3D ⭐",
-                "Arduino and electronics",
-                "ASM for Pics"
+                "HTML 5⭐",
+                "CSS3 ⭐",
+                "Javascript",
+                "C++",
+                "C#",
+                "Bootstrap"
             ]
         }
     },
@@ -67,7 +64,7 @@
         "type": "awesomeProjects",
         "data": {
             "title": "Awesome Projects 📚",
-            "count": 9,
+            "count": 4,
             "showEmojis": true,
             "showScore": false
         }
@@ -86,24 +83,24 @@
             "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
             "social": [
                 {
-                    "alt": "Hector's LinkedIn",
-                    "url": "https://www.linkedin.com/in/hector-pulido-17547369/",
+                    "alt": "JA54312 LinkedIn",
+                    "url": "https://www.linkedin.com/in/ja54312/",
                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
                 },
                 {
-                    "alt": "Hector's Twitter",
-                    "url": "https://twitter.com/Hector_Pulido_",
+                    "alt": "JA54312 Twitter",
+                    "url": "https://twitter.com/JA54312",
                     "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
                 },
                 {
-                    "alt": "Hector's Twitch",
-                    "url": "https://www.twitch.tv/hector_pulido_",
-                    "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
+                    "alt": "JA54312 Facebook",
+                    "url": "https://www.facebook.com/iJa54312",
+                    "image": "https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"
                 },
                 {
-                    "alt": "Hector's Youtube",
-                    "url": "https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw",
-                    "image": "https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+                    "alt": "JA54312 Web",
+                    "url": "https://ja54312.github.io/PORTAFOLIO/",
+                    "image": "https://www.vectorlogo.zone/logos/internetsociety/internetsociety-icon.svg"
                 }
             ]
         }
