@@ -5,9 +5,6 @@
 
 
 <p align="center">
-<a href="https://github.com/ja54312/ja54312/blob/master/ai.md">🤖</a>
-<a href="https://github.com/ja54312/ja54312/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/ja54312/ja54312/blob/master/blockchain.md">🔑</a>
 <a href="https://github.com/ja54312/ja54312/blob/master/backend.md">💻</a>
 </p>
 
