@@ -1,7 +1,7 @@
 # Hello, JA54312 is Here! 👋
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
+`Fantasy or Reality?,,Reality when needed, Fantasy always`<br><em> I'm **Aeronautic Engineer**, **Renewable Energy Engineer in Process**, **Amateur Front End**,**Amateur podcaster** and **#Gamer** lover.I am in the process of growth, I am very interested in learning #React.</em>
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 
 <a href="https://twitter.com/JA54312">
-<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
+<img align="right" height="auto" width="200" src="../img/triforce.jpg"/>
 </a>
 
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="#user-30538313-pinned-items-reorder-form">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HectorPulido&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Hector's Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ja54312&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Hector's Github Stats"/>
 </a>
 </p>
 
