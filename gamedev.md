@@ -5,14 +5,12 @@
 
 
 <p align="center">
-<a href="https://github.com/ja54312/ja54312/blob/master/ai.md">🤖</a>
-<a href="https://github.com/ja54312/ja54312/blob/master/gamedev.md">🎮</a>
-<a href="https://github.com/ja54312/ja54312/blob/master/blockchain.md">🔑</a>
 <a href="https://github.com/ja54312/ja54312/blob/master/backend.md">💻</a>
+<a href="https://github.com/ja54312/ja54312/blob/master/gamedev.md">🎮</a>
 </p>
 
 
-<a href="https://twitter.com/Hector_Pulido_">
+<a href="https://twitter.com/JA54312">
 <img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
 </a>
 
