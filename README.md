@@ -13,7 +13,7 @@
 
 
 <a href="https://twitter.com/JA54312">
-<img align="right" height="auto" width="200" src="../img/triforce.jpg"/>
+<img align="right" height="auto" width="200" src="https://github.com/HectorPulido/HectorPulido/raw/master/img/pequesoft.png"/>
 </a>
 
 
