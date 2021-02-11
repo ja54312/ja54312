@@ -1,7 +1,7 @@
-# Hector Pulido's Blockchain projects! 👋
+# JA54312's Blockchain projects! 👋
 
 
-`Third Clarke law; Any sufficiently advanced technology is indistinguishable from magic.`<br><em> I'm just a simple **Mechatronic engineer**, **backend developer**, **#MachineLearning** and **#Gamedev** lover, I have delusion of **youtuber** and now **streamer**, There is no challenge big enough not to try, My code will change the **world** some day.</em>
+`Fantasy or Reality?,,Reality when needed, Fantasy always`<br><em> I'm **Aeronautic Engineer**, **Renewable Energy Engineer in Process**, **Amateur Front End**,**Amateur podcaster** and **#Gamer** lover.I am in the process of growth, I am very interested in learning #React.</em>
 
 
 <p align="center">
@@ -27,14 +27,14 @@
 <h3 align="center">Let's connect 😋</h3>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/hector-pulido-17547369/" target="blank">
-<img align="center" width="30px" alt="Hector's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://twitter.com/Hector_Pulido_" target="blank">
-<img align="center" width="30px" alt="Hector's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.twitch.tv/hector_pulido_" target="blank">
-<img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com/channel/UCS_iMeH0P0nsIDPvBaJckOw" target="blank">
-<img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/ja54312/" target="blank">
+<img align="center" width="30px" alt="JA54312 LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://twitter.com/JA54312" target="blank">
+<img align="center" width="30px" alt="JA54312 Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/iJa54312" target="blank">
+<img align="center" width="30px" alt="JA54312 Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://ja54312.github.io/PORTAFOLIO/" target="blank">
+<img align="center" width="30px" alt="JA54312 Web" src="https://www.vectorlogo.zone/logos/internetsociety/internetsociety-icon.svg"/></a> &nbsp; &nbsp;
 
 </p>
 
