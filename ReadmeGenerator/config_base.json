@@ -8,7 +8,12 @@
                     "name": "Backend",
                     "emoji": "💻",
                     "tag": "backend"
-                }
+                 },
+                 {
+                     "name": "GameDev",
+                     "emoji": "🎮",
+                     "tag": "gamedev"
+                 } 
             ]
         }
     },
