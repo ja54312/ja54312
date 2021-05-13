@@ -31,7 +31,7 @@
 <img align="center" width="30px" alt="JA54312 Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/iJa54312" target="blank">
 <img align="center" width="30px" alt="JA54312 Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://ja54312.github.io/PORTAFOLIO/" target="blank">
+<a href="https://www.ja54312.com" target="blank">
 <img align="center" width="30px" alt="JA54312 Web" src="https://www.vectorlogo.zone/logos/internetsociety/internetsociety-icon.svg"/></a> &nbsp; &nbsp;
 
 </p>
