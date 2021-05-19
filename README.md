@@ -16,7 +16,7 @@
 - C++
 - C#
 - Bootstrap
--React
+- React
 
 
 <hr/>
